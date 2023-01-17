@@ -1,0 +1,15 @@
+logan,b_city, 30
+b_city,ogden, 15
+ogden,slc, 40
+slc,provo, 45 
+provo,st_george, 220
+slc,park_city, 40
+slc,wendover, 110
+b_city,logan, 30
+ogden,b_city, 15
+slc,ogden, 40
+provo,slc, 45 
+st_george,provo, 220
+park_city,slc, 40
+wendover,slc, 110
+logan,ogden, 90
