@@ -5,8 +5,6 @@ from binance.client import Client
 from binance.exceptions import BinanceAPIException, BinanceOrderException
 
 #contecting to server
-api_key = "CxekubwllJpfvvx1qWXTdmqph0cFIx3HxUgIIfxeAaect63nOhkLHJRZeLWtZPBK"
-api_secret = "SnwLiyzAXnbPgr73PagoBc60dJdzh17QGPF16UHyOlH5MNuNebRYbxNbHTAcy4Zg"
 client = Client(api_key, api_secret)
 client.API_URL = "https://testnet.binance.vision/api"
 
